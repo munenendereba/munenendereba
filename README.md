@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munenendereba
 - 👀 I’m interested in product development and management
-- 🌱 I’m currently learning test automation via testcafe
+- 🌱 I’m currently learning backend development on node.js
 - 💞️ I’m looking to collaborate on products
 - 📫 How to reach me https://www.linkedin.com/in/isaac-munene-ndereba/
 
