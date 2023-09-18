@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muneneisaka
+- 👋 Hi, I’m @munenendereba
 - 👀 I’m interested in product development and management
 - 🌱 I’m currently learning test automation via testcafe
 - 💞️ I’m looking to collaborate on products
